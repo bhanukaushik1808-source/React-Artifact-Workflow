@@ -1,4 +1,4 @@
-name: React Project Artifact
+name: Manual Workflow
 on:
     workflow_dispatch:
 jobs:
